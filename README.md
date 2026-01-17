@@ -9,8 +9,11 @@ StatusBot is a Hytale server plugin that connects your server to Discord and dyn
 
 ✨ Features
 Live player count tracking using official Hytale player events
+
 Discord bot presence updates (e.g. “Playing with 12 players”)
+
 Startup status message (e.g. “Server starting…”)
+
 Fully configurable update interval and status message
 
 
