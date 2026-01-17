@@ -6,6 +6,7 @@ You can contact me on discord banansplitt for any suggestions, support or compla
 
 
 <img width="236" height="94" alt="Screenshot 2026-01-17 093618" src="https://github.com/user-attachments/assets/c33f6c24-0814-4d56-9019-2c71c24fbbac" />
+<img width="243" height="57" alt="Screenshot 2026-01-17 155636" src="https://github.com/user-attachments/assets/a9488883-bebe-48a6-ba61-77a5022d5185" />
 
 
 
