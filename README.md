@@ -60,7 +60,8 @@ A new config file will be generated in the same folder where you can change the 
 
 
 
-<img width="812" height="329" alt="Screenshot 2026-01-17 155314" src="https://github.com/user-attachments/assets/1b9ddbe5-ef76-4eb1-918d-da59dc7a2ec2" />
+<img width="470" height="331" alt="Screenshot 2026-01-17 155915" src="https://github.com/user-attachments/assets/169ea8f2-9a4f-4539-a277-7d4b627cd0e2" />
+
 
 
 
