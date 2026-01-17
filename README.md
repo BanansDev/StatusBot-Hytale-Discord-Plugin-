@@ -59,7 +59,8 @@ A new config file will be generated in the same folder where you can change the 
 
 
 
-<img width="243" height="57" alt="Screenshot 2026-01-17 155636" src="https://github.com/user-attachments/assets/1de2fa15-12fd-4a2c-a2fe-82de7b3c2042" />
+
+<img width="812" height="329" alt="Screenshot 2026-01-17 155314" src="https://github.com/user-attachments/assets/1b9ddbe5-ef76-4eb1-918d-da59dc7a2ec2" />
 
 
 
