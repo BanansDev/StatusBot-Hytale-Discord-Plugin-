@@ -18,6 +18,8 @@ Startup status message (e.g. “Server starting…”)
 Fully configurable update interval and status message
 
 
+
+
 🤖 Creating the Discord Bot
 
 Go to the Discord Developer Portal
@@ -44,6 +46,8 @@ Go to the bottom and copy the link and paste it in your browser to invite it to 
 
 ⚠️ Do not share your bot token.
 Anyone with this token can fully control your bot.
+
+
 
 
 Install "StatusBotByBanan.jar and paste it in your mods folder
