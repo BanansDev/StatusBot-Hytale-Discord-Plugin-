@@ -58,7 +58,8 @@ Install "StatusBotByBanan.jar and paste it in your mods folder
 A new config file will be generated in the same folder where you can change the following:
 
 
-    <img width="812" height="329" alt="Screenshot 2026-01-17 155314" src="https://github.com/user-attachments/assets/9afb84e8-b581-4562-b397-17373ceedd93" />
+
+<img width="243" height="57" alt="Screenshot 2026-01-17 155636" src="https://github.com/user-attachments/assets/1de2fa15-12fd-4a2c-a2fe-82de7b3c2042" />
 
 
 
