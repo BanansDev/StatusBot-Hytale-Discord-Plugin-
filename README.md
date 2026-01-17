@@ -4,8 +4,8 @@ StatusBot is a Hytale server plugin that connects your server to Discord and dyn
 You can contact me on discord banansplitt for any suggestions, support or complaints.
 
 
-<img width="223" height="95" alt="startingBOT" src="https://github.com/user-attachments/assets/fb073058-1d7f-4d2f-af5f-9c8a32b528ae" />
-<img width="236" height="94" alt="Screenshot 2026-01-17 093618" src="https://github.com/user-attachments/assets/795fa902-0ad8-43b3-8fa8-c6f635e65600" />
+
+<img width="236" height="94" alt="Screenshot 2026-01-17 093618" src="https://github.com/user-attachments/assets/c33f6c24-0814-4d56-9019-2c71c24fbbac" />
 
 
 
@@ -15,7 +15,7 @@ Live player count tracking using official Hytale player events
 
 Discord bot presence updates (e.g. “Playing with 12 players”)
 
-Startup status message (e.g. “Server starting…”)
+Rotating Status (e.g. “Server IP, etc”)
 
 Fully configurable update interval and status message
 
@@ -55,14 +55,10 @@ Anyone with this token can fully control your bot.
 Install "StatusBotByBanan.jar and paste it in your mods folder
 
 A new config file will be generated in the same folder where you can change the following:
-{
 
-  "discordToken": "",
-  
-  "statusMessage": "Playing with {online} players!",
-  
-  "updateIntervalSeconds": 60
-  
-}
+
+    <img width="812" height="329" alt="Screenshot 2026-01-17 155314" src="https://github.com/user-attachments/assets/9afb84e8-b581-4562-b397-17373ceedd93" />
+
+
 
 UpdateInterval SHOULD NOT BE LESS THAN 30, AS DISCORD CAN RATE LIMIT YOU.
